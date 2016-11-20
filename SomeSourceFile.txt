@@ -1,3 +1,4 @@
 I've just created this file!
 
 This line represents new functionality for second commit! Meow!
+Some lines of code to make a second commit after publishing!
